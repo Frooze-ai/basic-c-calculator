@@ -13,5 +13,9 @@
   Select the action you want to do. (+, -, *, /)
 ```
 
+```http
+  Enter the first and second number.
+```
+
 ..and that's it!
   
